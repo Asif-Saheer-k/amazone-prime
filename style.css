@@ -1,0 +1,281 @@
+
+.main-body{
+    width: 100%;
+    height: 100%;
+}
+.main-header{
+    background:#19232D;
+    width: 100%;
+    height: 80px;
+
+}.logo{
+    width: 50%;
+    float: left;
+}
+.sighn{
+    width: 50%;
+    float: left;
+    padding-top: 35px;
+
+}.logo-img{
+   padding-top: 20px;
+    height: 40px;
+    width: 150px;
+    color: aliceblue;
+    padding-left: 5%;
+}
+.country{
+    background-color: #19232D;
+    color: white;
+    width: 60px;
+    border: 0;
+    margin-left: 450px;
+    font-size: 18px;
+}.sub-btn{
+    border: 0;
+    padding-left: 102px;
+    color: white;
+    font-size: 19px;
+    font-family: ui-sans-serif;
+    text-decoration: none;
+    height: 30px;
+    width: 230px;
+    background-color: #19232D
+}
+
+body{
+margin: 0%;
+}
+.body{   
+width: 100%;
+height: 550px;
+position: relative;
+text-align: left;
+}.body-img{
+    width: 100%;
+    height: 550px;
+}.body-content{
+    position: absolute;
+    bottom: 100px;
+    left: 50px;
+    color: aliceblue;
+   
+}#first{
+
+    font-size: 45px;
+    
+}#second{
+    font-size: 19px;
+    font-family: sans-serif;
+
+}#start{
+    height: 43px;
+    width: 220px;
+    border: 0px;
+    color: white;
+    background-color: dodgerblue;
+    font-size: 18px;
+    font-family: sans-serif;
+}#depit{
+    font-family: fangsong;
+
+}.body-1{
+width: 100%;
+height: 490px;
+
+
+}.block-1{
+    width: 50%;
+    height: 200px;
+    float: left;
+
+}.block-2{
+width: 50%;
+float: left;
+height: 200px;
+}#paragraph-1{
+    padding-left: 81px;
+    font-size: 50px;
+    font-weight: lighter;
+    font-family: inherit;
+
+}#paragraph-2{
+    font-family: system-ui;
+    font-size: 27px;
+    font-weight: lighter;
+    padding-left: 82px;
+
+}.item-1{
+    padding-top: 30px;
+    padding-left: 5px;
+
+}.image-1{
+    width: 225px;
+    height: 150px;
+}.image-2{
+   
+    width: 225px;
+    height: 150px;
+}.image-3{
+    
+    width: 225px;
+    height: 150px;
+}
+.image-4{
+    
+    width: 225px;
+    height: 150px;
+}
+.image-5{
+    
+    width: 225px;
+    height: 150px;
+}
+.image-6{
+    
+    width: 225px;
+    height: 150px;
+}
+.image-7{
+    
+    width: 225px;
+    height: 150px;
+}
+.image-8{
+    
+    width: 225px;
+    height: 150px;
+}
+.image-9{
+    
+    width: 225px;
+    height: 150px;
+}.body-3{
+    background-color: black;
+    width: 100%;
+    height: 500px;
+}.block-3{
+    width: 50%;
+    float: left;
+}#paragraph-3{
+    padding-left: 79px;
+    font-size: 52px;
+    font-family: math;
+  color: aliceblue;
+}#paragraph-4{
+    font-size: 24px;
+    padding-left: 88px;
+    font-family: ui-serif;
+    color: aliceblue;
+color: aliceblue;
+}
+.block-4{
+    width: 50%;
+    float: left;
+}.image10{
+    height: 280px;
+    padding-top: 220px;
+}#btn-1{
+    color: wheat;
+    font-size: 20px;
+    background-color: steelblue;
+    border: 0;
+    margin-left: 88px;
+    height: 50px;
+    width: 243px;
+}.body-4{
+width: 100%;
+height:500px;
+background-color:black;
+}.block-5{
+width: 50%;
+height:500px;
+float: left;
+}.block-6{
+    width: 50%;
+    float: left;
+    height:500px;
+    color: aliceblue;
+}.image-11{
+    width: 100%;
+    margin-top: -4px;
+    height: 500px;
+}
+#paragraph-5{
+    font-size: 45px;
+    padding-top: 50px;
+    padding-left: 70px;
+    font-family: sans-serif;
+
+}#paragraph-6{
+    font-size: 22px;
+    padding-left: 75px;
+    font-family: sans-serif;
+}#btn-2{
+    color: wheat;
+    font-size: 20px;
+    background-color: steelblue;
+    border: 0;
+    margin-left: 78px;
+    height: 50px;
+    width: 245px;
+    margin-top: 30px;
+}.body-5{
+    background-color: black;
+    width: 100%;
+    height: 500px;
+   
+}.block-7{
+    color: aliceblue;
+    width: 50%;
+    height: 500px;
+    float: left;
+    background-color: black;
+
+}.block-8{
+    background-color: black;
+    width: 50%;
+    height: 500px;
+    float: left;
+}#paragraph-7{
+    padding-top: 90px;
+    padding-left: 90px;
+    font-size: 50px;
+    font-family: sans-serif;
+
+}#paragraph-8{
+    padding-left: 90px;
+    font-size: 24px;
+    font-family: none;
+
+}#btn-3{
+    margin-top: 30px;
+    color: wheat;
+    font-size: 20px;
+    background-color: steelblue;
+    border: 0;
+    margin-left: 88px;
+    height: 50px;
+    width: 243px;
+
+}#image-12{
+    width: 100%;
+    height: 100%;
+}.body-6{
+    width: 100%;
+    height: 150px;
+    background-color: #0f171e;
+}#image-13{
+    padding-left: 46%;
+    height: 40px;
+    width: 130px;
+    padding-top: 28px;
+}#paragraph-9{
+color: aliceblue;
+}#link{
+    color: steelblue;
+    text-decoration: none;
+    padding-left: 30%;
+    font-size: 18px;
+}
+
